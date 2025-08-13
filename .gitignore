@@ -1,0 +1,26 @@
+
+---
+
+## **4️⃣ `.gitignore`**
+```gitignore
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+#.idea
+.idea

@@ -1,0 +1,4 @@
+selenium==4.21.0
+python-dotenv==1.0.1
+nopecha==2.0.1
+webdriver-manager==3.8.6
